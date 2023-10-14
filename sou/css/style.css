@@ -1,0 +1,33 @@
+@media all and (max-width:500px)
+
+h2{
+
+    color:rgb(137, 30, 236);
+      font-size: 200%;
+ }
+ abbr {
+   text-decoration: none;
+}
+body {
+   background: rgb(254, 249, 255);
+
+}
+
+h4{
+
+     font-size: 120%;
+}
+h3{
+
+   font-size: 120%;
+}
+b{
+
+   color:rgb(20, 161, 79);
+     font-size: 120%;
+}
+a{
+
+   color: red;
+   font-size: 110%;
+}
